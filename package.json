@@ -1,0 +1,38 @@
+{
+  "name": "sign-in-page",
+  "version": "1.0.0",
+  "description": "Signin Page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmasria/sign-in-page.git"
+  },
+  "author": "Ahmad El Masri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmasria/sign-in-page/issues"
+  },
+  "homepage": "https://github.com/elmasria/sign-in-page#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-strip-comments": "^2.4.3",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^2.0.1",
+    "jquery": "^3.1.0",
+    "merge-stream": "^1.0.1"
+  }
+}

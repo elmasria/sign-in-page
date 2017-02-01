@@ -1,0 +1,5 @@
+node_modules/
+dist/
+public-transportation-app/
+.sass_cache
+*debug.log
